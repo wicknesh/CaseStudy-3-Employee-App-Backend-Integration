@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "mongoose": "^8.7.1",
+    "morgan": "^1.10.0"
+  },
+  "name": "casestudy-3-employee-app-backend-integration",
+  "version": "1.0.0",
+  "description": "This project completes the backend code for the Employee App, where the frontend is provided as a pre-built dist/build file. The following describes the implementation details for handling employee data using Node.js and MongoDB Atlas.\r ## Features Implemented:",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
